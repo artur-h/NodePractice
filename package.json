@@ -1,0 +1,26 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "Node JS practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artur-h/NodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artur-h/NodePractice/issues"
+  },
+  "homepage": "https://github.com/artur-h/NodePractice#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
